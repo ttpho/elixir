@@ -35,3 +35,9 @@ dropdb mydatabasename
 4. phoenix ❤️ PostgreSQL
 
 Before you run ```mix ecto.create``` , you must be start Postgres database
+
+5. Postico ❤️ PostgreSQL
+
+[Postico](https://eggerapps.at/postico/) A Modern PostgreSQL Client for the Mac.
+
+<img src = "https://eggerapps.at/postico/screenshots/table-content-view.png" width = "500" />
